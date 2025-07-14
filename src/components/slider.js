@@ -107,13 +107,13 @@ const Courses = () => {
       <div style={{ maxWidth: "1200px", margin: "0 auto", padding: "10px" }}>
         <div style={{ textAlign: "center", paddingBottom: "20px" }}>
           <h1 style={{ fontWeight: "bold", fontSize: "24px", marginBottom: "10px" }}>
-            Educational revolution{" "}
+          Empowering{" "}
             <span style={{color:"#0c71c3"}}>
-              through empowering schools and student for better studies
+            schools and student for better studies.
             </span>
           </h1>
           <p style={{ color: "#6D737A", fontWeight: "bold", fontSize: "16px" }}>
-       EAI educational revolution goal is to empower the less previllege children in our dear ebonyi state by empowering schools and student with necceassry teaching and study materials ranging from training, study materials.
+          EAI educational  goal is to empower the less privileged children in schools with necessary teaching and study materials.
           </p>
         </div>
         <Slider {...settings}>

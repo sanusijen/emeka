@@ -8,13 +8,13 @@ const aims = [
     id: 1,
     icon: 'fas fa-bullseye',
     title: 'Our Aim',
-    description: 'To revolutionize education across Ebonyi State’s 20 local governments by donating study materials, renovating classrooms, and offering scholarships to underprivileged students, ensuring equal learning opportunities for all.'
+    description: 'To assist quality of education across rural areas  by donating study materials, renovating classrooms, and any other relevant assistance to underprivileged students, ensuring equal learning opportunities for all.'
   },
   {
     id: 2,
     icon: 'fas fa-puzzle-piece',
     title: 'Our Objectives',
-    description: 'To improve learning environments, enhance access to quality education, and support underprivileged students through strategic donations, infrastructure upgrades, and scholarship programs across all 20 local governments in Ebonyi State.'
+    description: 'To improve learning environments, enhance access to quality education, and support underprivileged students through strategic donations, infrastructure upgrades.'
   },
   
  
@@ -25,22 +25,22 @@ var heroData = [
     id: 1,
     image: require('../assets/images/ggs.jpg'),
     title: 'Emeka Anyimude Initiatives Donation to Government Girls Secondary School Ndulo  ',
-    description: 'We are pleased to announce a generous donation to Government Girls Secondary School Ndulo, Ndulo. This support will help provide essential learning materials, improve classroom facilities, and create a better learning environment for the pupils. The school community deeply appreciates this gesture, which reflects a strong commitment to education and youth development in the area!',
-    link: 'https://www.google.com'
+    description: 'We are pleased to announce donation to Government Girls Secondary School Ndulo, Ndulo. This support will help provide essential learning materials, improve classroom facilities, and create a better learning environment for the pupils. The school community deeply appreciates this gesture, which reflects a strong commitment to education and youth development in the area!',
+    link: '/about'
   },
   {
     id: 2,
     image: require('../assets/images/sit.jpg'),
     title: 'Emeka Anyimude Initiatives Donate seat  ',
-    description: 'We are pleased to announce a generous donation of seat to teachers. in the past teachers lack sit to relax on when EAI notice that it swing into action by providing sit this is part of the effort  strengthen education and youth development in the area!',
-    link: 'https://www.facebook.com'
+    description: 'We are pleased to announce donation of seat to teachers. in the past teachers lack sit to relax on when EAI notice that it swing into action by providing sit this is part of the effort  strengthen education and youth development in the area!',
+    link: '/about'
   },
   {
     id: 3,
     image: require('../assets/images/hero5.jpeg'),
     title: 'Emeka Anyimude Initiatives Donation to Community Junior Secondary School Umuoghara ',
-    description: 'We are pleased to announce a generous donation to Community Junior Secondary School Umuoghara. This support will help provide essential learning materials, improve classroom facilities, and create a better learning environment for the pupils. The school community deeply appreciates this gesture, which reflects a strong commitment to education and youth development in the area!',
-    link: 'https://www.twitter.com'
+    description: 'We are pleased to announce donation to Community Junior Secondary School Umuoghara. This support will help provide essential learning materials, improve classroom facilities, and create a better learning environment for the pupils. The school community deeply appreciates this gesture, which reflects a strong commitment to education and youth development in the area!',
+    link: '/about'
   }
 ];
 
@@ -48,26 +48,26 @@ const servicesData = [
   {
     id: 1,
     icon: 'fas fa-book-open',
-    title: '10,000 study Materials',
+    title: ' study Materials',
     description: 'Donated To Schools.'
   },
   {
     id: 2,
     icon: 'fas fa-graduation-cap',
-    title: '5 Proposed Project',
-    description: 'Schools Renovation.'
+    title: ' Proposed Projects',
+    description: 'Proposed Projects.'
   },
   {
     id: 3,
     icon: 'fas fa-school',
-    title: '42 Schools',
-    description: 'Accross 16 LGA.'
+    title: 'Schools',
+    description: 'Schools Across Rural Areas.'
   },
   {
     id: 4,
     icon: 'fas fa-user-graduate',
-    title: 'Morethan 2000 Students',
-    description: '2000 Students Reached.'
+    title: 'Students Reached',
+    description: ' Students Reached.'
   },
  
 ];
@@ -96,7 +96,7 @@ function AppHero() {
 
     
       <div className="title-holder" style={{marginTop:'20px',marginBottom:'20px', color:'#0c71c3', fontSize:"20px",fontWeight:"bold"}}>
-          <h2>OUR IMPACT</h2>
+          <h2>INITIATIVES</h2>
         </div>
   <Container fluid>
       <Row className="g-2"> {/* Bootstrap gutter spacing, smaller value = less space */}

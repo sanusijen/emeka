@@ -27,19 +27,8 @@ function About() {
             <Image src={anyimude} />
           </Col>
           <Col sm={6}>
-          <p>The Emeka Anyimude Initiative is a humanitarian organization committed to transforming education for underprivileged students in Ebonyi State, Nigeria. Founded with a deep passion for educational equity, the initiative began its full-scale operations in 2023 and has since become a beacon of hope for thousands of students across the state.
-
-Our mission is simple yet powerful: to provide essential study materials to students in public schools who lack the resources they need to thrive academically. We believe that every child, regardless of their background or economic status, deserves access to quality learning tools that can empower their future.
-
-Since its inception, the Emeka Anyimude Initiative has made a remarkable impact by reaching over 200 public schools and donating study materials to more than 15,000 students. Through the generous support of donors and volunteers, we continue to expand our reach, one school and one student at a time.
-
-At the heart of our work is the belief that education is the most effective tool for breaking the cycle of poverty. By equipping students with books, writing materials, 
-and other educational resources, we aim to nurture their potential and inspire a new generation of leaders and changemakers in Ebonyi State and beyond.
-
-Join us as we build a brighter future through education—because every child deserves a chance to learn, grow, and succeed. Our core mission is to empower the next generation through education by ensuring that no child is left behind simply because of their socio-economic background. We strongly believe that access to quality learning resources should not be a privilege, but a right for every child—especially those in underserved communities.</p> 
-      
-
-      
+          <p>The Emeka Anyimude Initiative is an organization committed to transforming education for underprivileged students. The vision is for educational equity.  The initiative began its full-scale operations in 2023 and aims to be a beacon of hope for students. Our mission is simple: to provide essential study materials to students in public schools who lack the resources they need to thrive academically. We believe that every child, regardless of their background or economic status, deserves access to quality learning tools that can empower their future. The Initiative targets public schools.. At the heart of our work is the belief that education is the most effective tool for breaking the cycle of poverty. By equipping students with books, writing materials, and other educational resources, we aim to nurture their potential and inspire a new generation of leaders and changemakers. Join us as we build a brighter future through education—because every child deserves a chance to learn, grow, and succeed. Our core mission is to empower the next generation through education by ensuring that no child is left behind simply because of their socio-economic background. We strongly believe that access to quality learning resources should not be a privilege, but a right for every child—especially those in underserved communities.</p> 
+    
           </Col>
           
         </Row>
