@@ -43,7 +43,7 @@ function September() {
           <p>LOCAL GOVERNMENT:IKWO</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited CENTRAL SCHOOL IGBOJI IKWO  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited CENTRAL SCHOOL IGBOJI IKWO  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -70,7 +70,7 @@ function September() {
           <p>LOCAL GOVERNMENT:EBONYI</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited CENTRAL SCHOOL IGBOJI IKWO  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited CENTRAL SCHOOL IGBOJI IKWO  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -98,7 +98,7 @@ function September() {
           <p>LOCAL GOVERNMENT:OHAOZARA</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited AMANDA COMMUNITY PRIMARY SCHOOL  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited AMANDA COMMUNITY PRIMARY SCHOOL  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -126,7 +126,7 @@ function September() {
           <p>LOCAL GOVERNMENT:IKWO</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited COMMUNITY PRIMARY SCHOOL ABINA AMAGU  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited COMMUNITY PRIMARY SCHOOL ABINA AMAGU  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -154,7 +154,7 @@ function September() {
           <p>LOCAL GOVERNMENT:OHAOZARA</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited UGWULANGWU SECONDARY JSS  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited UGWULANGWU SECONDARY JSS  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -182,7 +182,7 @@ function September() {
           <p>LOCAL GOVERNMENT:IKWO</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited COMMUNITY JUNIOR SECONDARY ABINA AMAGU  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited COMMUNITY JUNIOR SECONDARY ABINA AMAGU  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -212,7 +212,7 @@ function September() {
           <p>LOCAL GOVERNMENT:IKWO</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited IKWO HIGH SCHOOL AGBIA where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited IKWO HIGH SCHOOL AGBIA where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -241,7 +241,7 @@ function September() {
           <p>LOCAL GOVERNMENT:EZZA NORTH</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited COMMUNITY JUNIOR SECONDARY SCHOOL UMUOGHARA where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited COMMUNITY JUNIOR SECONDARY SCHOOL UMUOGHARA where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 

@@ -43,7 +43,7 @@ function May() {
           <p>LOCAL GOVERNMENT:ABAKALIKI</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited PRESSCO SECONDARY SCHOOL where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited PRESSCO SECONDARY SCHOOL where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col>
@@ -72,7 +72,7 @@ function May() {
           <p>LOCAL GOVERNMENT:ONICHA</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited  UNITY HIGH SCHOOL where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited  UNITY HIGH SCHOOL where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col>
@@ -100,7 +100,7 @@ function May() {
           <p>LOCAL GOVERNMENT:IVO</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited AKAEZA COMMUNITY IYIOJI JSS AKAEZA where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited AKAEZA COMMUNITY IYIOJI JSS AKAEZA where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col>
@@ -128,7 +128,7 @@ function May() {
           <p>LOCAL GOVERNMENT:ONICHA</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited  OSHIRI CENTRAL SCHOOL OSHIRI  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited  OSHIRI CENTRAL SCHOOL OSHIRI  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col>
@@ -155,7 +155,7 @@ function May() {
           <p>LOCAL GOVERNMENT:ONICHA</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited  OSHIRI CENTRAL SCHOOL OSHIRI  where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited  OSHIRI CENTRAL SCHOOL OSHIRI  where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col>

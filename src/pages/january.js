@@ -39,7 +39,7 @@ function January() {
           <p>LOCAL GOVERNMENT:ABAKALIKI</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited DEMOCRACY ESTATE PRIMARY SCHOOL where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited DEMOCRACY ESTATE PRIMARY SCHOOL where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -67,7 +67,7 @@ function January() {
           <p>LOCAL GOVERNMENT:ABAKALIKI</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited NKWEGU CPS, NKWAGU where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited NKWEGU CPS, NKWAGU where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -95,7 +95,7 @@ function January() {
           <p>LOCAL GOVERNMENT:ABAKALIKI</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited CENTRAL URBAN P/S I, ABAKALIKI where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited CENTRAL URBAN P/S I, ABAKALIKI where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 
@@ -123,7 +123,7 @@ function January() {
           <p>LOCAL GOVERNMENT:ABAKALIKI</p>
           <p>STATE:EBONYI</p>
           <p>DONATION TYPE: TEXTBOOKS</p>
-          <p>The Emeka Anyimude Initiative visited PRISON SPECIAL SECONDARY SCHOOL, ABAKALIKI where the organization donated study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with study materials.
+          <p>The Emeka Anyimude Initiative visited PRISON SPECIAL SECONDARY SCHOOL, ABAKALIKI where the organization donated Study materials to the student of the school the materials ranging from pencil, text book,note books.all this is done in effort to help the less privellege once in public schools Accross ebonyi state.our danations in line with our survey regarding the performance of student in the schol we realize that student face challenges with Study materials.
  </p>
       
           </Col> 

@@ -99,7 +99,7 @@ function AppHeader() {
                 )}
               </div>
 
-              <Nav.Link as={Link} to="/proposed" style={linkStyle}>PROPOSED PROJECT</Nav.Link>
+              <Nav.Link as={Link} to="/proposed" style={linkStyle}>PROPOSED PROJECTS</Nav.Link>
               <Nav.Link as={Link} to="/contact" style={linkStyle}>CONTACT US</Nav.Link>
             </Nav>
           </Navbar.Collapse>

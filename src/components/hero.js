@@ -8,7 +8,7 @@ const aims = [
     id: 1,
     icon: 'fas fa-bullseye',
     title: 'Our Aim',
-    description: 'To assist quality of education across rural areas  by donating study materials, renovating classrooms, and any other relevant assistance to underprivileged students, ensuring equal learning opportunities for all.'
+    description: 'To assist quality of education across rural areas  by donating Study materials, renovating classrooms, and any other relevant assistance to underprivileged students, ensuring equal learning opportunities for all.'
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ var heroData = [
     id: 2,
     image: require('../assets/images/sit.jpg'),
     title: 'Emeka Anyimude Initiatives Donate seat  ',
-    description: 'We are pleased to announce donation of seat to teachers. in the past teachers lack sit to relax on when EAI notice that it swing into action by providing sit this is part of the effort  strengthen education and youth development in the area!',
+    description: 'We are pleased to announce donation of Seats to teachers. in the past teachers lack sit to relax on when EAI notice that it swing into action by providing sit this is part of the effort  strengthen education and youth development in the area!',
     link: '/about'
   },
   {
@@ -48,7 +48,7 @@ const servicesData = [
   {
     id: 1,
     icon: 'fas fa-book-open',
-    title: ' study Materials',
+    title: ' Study Materials',
     description: 'Donated To Schools.'
   },
   {

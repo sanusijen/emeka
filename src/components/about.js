@@ -26,9 +26,9 @@ function AppAbout() {
           <Col sm={6}>
           <p>The Emeka Anyimude Initiative is a humanitarian organization committed to transforming education for underprivileged students in Ebonyi State, Nigeria. Founded with a deep passion for educational equity, the initiative began its full-scale operations in 2023 and has since become a beacon of hope for thousands of students across the state.
 
-Our mission is simple yet powerful: to provide essential study materials to students in public schools who lack the resources they need to thrive academically. We believe that every child, regardless of their background or economic status, deserves access to quality learning tools that can empower their future.
+Our mission is simple yet powerful: to provide essential Study materials to students in public schools who lack the resources they need to thrive academically. We believe that every child, regardless of their background or economic status, deserves access to quality learning tools that can empower their future.
 
-Since its inception, the Emeka Anyimude Initiative has made a remarkable impact by reaching over 200 public schools and donating study materials to more than 15,000 students. Through the generous support of donors and volunteers, we continue to expand our reach, one school and one student at a time.
+Since its inception, the Emeka Anyimude Initiative has made a remarkable impact by reaching over 200 public schools and donating Study materials to more than 15,000 students. Through the generous support of donors and volunteers, we continue to expand our reach, one school and one student at a time.
 
 At the heart of our work is the belief that education is the most effective tool for breaking the cycle of poverty. By equipping students with books, writing materials, </p>
       

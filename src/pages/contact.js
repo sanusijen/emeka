@@ -43,8 +43,7 @@ function Contact() {
               emekaudeai@gmail.com
             </li>
             <li>
-              <i className="fas fa-envelope"></i>
-              emekaudeai@gmail.com
+              
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>

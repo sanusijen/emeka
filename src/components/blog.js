@@ -17,7 +17,7 @@ const blogData = [
     image: require('../assets/images/do.jpg'),
     time: '10 FEB 2025',
     title: 'Donation to Community Junior Secondary Umuoghara school',
-    description: 'The Emeka Anyimude Initiative visited Community Junior Secondary Umuoghara school donations of study materials were made through its representative.',
+    description: 'The Emeka Anyimude Initiative visited Community Junior Secondary Umuoghara school donations of Study materials were made through its representative.',
     link: '/febuary'
   },
   {
@@ -25,7 +25,7 @@ const blogData = [
     image: require('../assets/images/dm.jpg'),
     time: '21 JANUARY 2025',
     title: 'Donation to Democracy primary school',
-    description: 'The Emeka Anyimude Initiative visited Democracy Estate PrimarySchool where the organization donated study materials to the student.',
+    description: 'The Emeka Anyimude Initiative visited Democracy Estate PrimarySchool where the organization donated Study materials to the student.',
     link: '/january'
   }
 ]
