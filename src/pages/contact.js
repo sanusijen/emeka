@@ -40,14 +40,14 @@ function Contact() {
           <ul>
             <li>
               <i className="fas fa-envelope"></i>
-              emekaudeai@gmail.com
+              initiative@emekaanyimude.org
             </li>
             <li>
               
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>
-              Ebonyi, Nigeria
+               Nigeria
             </li>
           </ul>
         </div>

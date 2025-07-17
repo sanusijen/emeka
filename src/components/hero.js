@@ -32,7 +32,7 @@ var heroData = [
     id: 2,
     image: require('../assets/images/sit.jpg'),
     title: 'Emeka Anyimude Initiatives Donate seat  ',
-    description: 'We are pleased to announce donation of Seats to teachers. in the past teachers lack sit to relax on when EAI notice that it swing into action by providing sit this is part of the effort  strengthen education and youth development in the area!',
+    description: 'We are pleased to announce donation of seats to teachers. In the past  teachers  lack seats to relax on. When EAI noticed this, it swung into action by providing some. This is part of the effort to strengthen education and youth development in the area!',
     link: '/about'
   },
   {
