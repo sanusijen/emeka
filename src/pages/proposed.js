@@ -20,7 +20,7 @@ function Proposed() {
           <h2>Our Proposed Projects</h2>
           <div style={{ textAlign: "center", paddingBottom: "10px" }}>
           <p style={{ color: "#6D737A", fontWeight: "bold", fontSize: "16px" }}>
-          Our proposed projects focus on empowering public schools and students by providing essential study materials, including textbooks, writing supplies, and other learning resources. We also plan to support teachers to improve the quality of education delivered in the classroom. In addition, we aim to rehabilitate dilapidated school structures, creating a more conducive and safe learning environment. Through these targeted interventions, EAI seeks to promote equal access to quality education and inspire academic success among students from disadvantaged backgrounds.
+          Our proposed projects focus on empowering public schools and students by providing essential Study materials, including textbooks, writing supplies, and other learning resources. We also plan to support teachers to improve the quality of education delivered in the classroom. In addition, we aim to rehabilitate dilapidated school structures, creating a more conducive and safe learning environment. Through these targeted interventions, EAI seeks to promote equal access to quality education and inspire academic success among students from disadvantaged backgrounds.
           </p>
         </div>
         </div>
