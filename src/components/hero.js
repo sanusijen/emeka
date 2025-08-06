@@ -143,7 +143,7 @@ function AppHero() {
                     <i className={objectives.icon}></i>
                   </div>
                   <h3>{objectives.title}</h3>
-                  <p>{objectives.description}</p>
+                  <p style={{marginRight:'10px'}}>{objectives.description}</p>
                 </Col>
               );
             })
