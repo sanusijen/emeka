@@ -48,26 +48,14 @@ const servicesData = [
   {
     id: 1,
     icon: 'fas fa-book-open',
-    title: ' Study Materials',
-    description: 'Donated To Schools.'
+    title: ' Study materials',
+    description: ''
   },
   {
     id: 2,
-    icon: 'fas fa-graduation-cap',
-    title: ' Proposed Projects',
-    description: 'Proposed Projects.'
-  },
-  {
-    id: 3,
-    icon: 'fas fa-school',
-    title: 'Schools',
-    description: 'Schools Across Rural Areas.'
-  },
-  {
-    id: 4,
     icon: 'fas fa-user-graduate',
-    title: 'Students Reached',
-    description: ' Students Reached.'
+    title: 'Boosting learning environment',
+    description: ' .'
   },
  
 ];
@@ -102,7 +90,7 @@ function AppHero() {
       <Row className="g-2"> {/* Bootstrap gutter spacing, smaller value = less space */}
   {servicesData.map((service) => (
     <Col
-      sm={3}
+      sm={6}
       className="holder text-center"
       key={service.id}
       style={{

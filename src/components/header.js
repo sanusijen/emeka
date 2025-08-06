@@ -81,7 +81,7 @@ function AppHeader() {
                     }}
                   >
                     {[
-                      'january', 'febuary', 'march', 'april', 'may', 'june',
+                      'january', 'february', 'march', 'april', 'may', 'june',
                       'july', 'august', 'september', 'october', 'november', 'december'
                     ].map((month) => (
                       <div

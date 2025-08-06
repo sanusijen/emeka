@@ -87,7 +87,7 @@ function May() {
           <Col sm={6}>
             <p><strong>MONTH:</strong> May</p>
             <p><strong>YEAR:</strong> 2025</p>
-            <p><strong>SCHOOL NAME:</strong> Akaeza Community Iyioji JSS Akaeze</p>
+            <p><strong>SCHOOL NAME:</strong>Akaeze Community Iyioji JSS Akaeze</p>
             <p><strong>LOCAL GOVERNMENT:</strong> Ivo</p>
             <p><strong>STATE:</strong> Ebonyi</p>
             <p><strong>DONATION TYPE:</strong> Textbooks</p>

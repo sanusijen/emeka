@@ -33,7 +33,7 @@ function June() {
             </video>
           </Col>
           <Col sm={6}>
-            <p><strong>MONTH:</strong> JULY</p>
+            <p><strong>MONTH:</strong> JUNE</p>
             <p><strong>YEAR:</strong> 2024</p>
             <p><strong>SCHOOL NAME:</strong> AMURO/MGBOM PRIMARY SCHOOL I</p>
             <p><strong>LOCAL GOVERNMENT:</strong> AFIKPO NORTH</p>
@@ -68,7 +68,7 @@ function June() {
             </video>
           </Col>
           <Col sm={6}>
-            <p><strong>MONTH:</strong> JULY</p>
+            <p><strong>MONTH:</strong> JUNE</p>
             <p><strong>YEAR:</strong> 2024</p>
             <p><strong>SCHOOL NAME:</strong> AMURO/MGBOM PRIMARY SCHOOL II</p>
             <p><strong>LOCAL GOVERNMENT:</strong> AFIKPO NORTH</p>

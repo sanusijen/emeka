@@ -35,7 +35,7 @@ function November() {
 
           <Col sm={6}>
             <p>MONTH : NOVEMBER</p>
-            <p>YEAR : 2025</p>
+            <p>YEAR : 2024</p>
             <p>SCHOOL NAME : DEMOCRACY ESTATE PRIMARY SCHOOL</p>
             <p>LOCAL GOVERNMENT: ABAKALIKI</p>
             <p>STATE: EBONYI</p>
