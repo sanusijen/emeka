@@ -7,7 +7,7 @@ import Contact from './pages/contact';
 import Programs from './pages/programs';
 import Proposed from './pages/proposed';
 import January from './pages/january';
-import Febuary from './pages/febuary';
+import February from './pages/february';
 import March from './pages/march';
 import April from './pages/april';
 import May from './pages/may';
@@ -37,7 +37,7 @@ function App() {
           <Route path="/programs" element={<Programs />} />
           <Route path="/proposed" element={<Proposed />} />
           <Route path="/january" element={<January />} />
-          <Route path="/febuary" element={<Febuary />} />
+          <Route path="/february" element={<February />} />
           <Route path="/march" element={<March />} />
           <Route path="/april" element={<April />} />
           <Route path="/may" element={<May />} />
