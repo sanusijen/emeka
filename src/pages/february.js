@@ -68,7 +68,7 @@ function February() {
               }}
             >
               <source
-                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/ngulo.mp4"
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/gg.mp4"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
@@ -78,12 +78,12 @@ function February() {
           <Col sm={6}>
             <p>MONTH: FEBRUARY</p>
             <p>YEAR: 2025</p>
-            <p>SCHOOL NAME: COMMUNITY JUNIOR SECONDARY ENYIGWE</p>
-            <p>LOCAL GOVERNMENT: IZZI</p>
+            <p>SCHOOL NAME: GIRLS HIGH SCHOOL Abakaliki</p>
+            <p>LOCAL GOVERNMENT: ABAKALIKI</p>
             <p>STATE: EBONYI</p>
             <p>DONATION TYPE: TEXTBOOKS</p>
             <p>
-              The Emeka Anyimude Initiative visited COMMUNITY JUNIOR SECONDARY ENYIGWE, where the
+              The Emeka Anyimude Initiative visited GIRLS HIGH SCHOOL ABAKALIKI, where the
               organization donated study materials to the students of the
               school. The materials ranged from pencils, textbooks, to notebooks.
               This was done in an effort to support less privileged students in
