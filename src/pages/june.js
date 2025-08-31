@@ -14,6 +14,74 @@ function June() {
         </div>
         <Row>
           {/* AMURO/MGBOM PRIMARY SCHOOL I */}
+          
+          <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: '100%',
+                height: '500px',
+                borderRadius: '0.5rem',
+                boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+                objectFit: 'cover',
+              }}
+            >
+              <source
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/cps.mp4"
+                type="video/mp4"
+              />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p><strong>MONTH:</strong> JUNE</p>
+            <p><strong>YEAR:</strong> 2025</p>
+            <p><strong>SCHOOL NAME:</strong> COMMUNITY PRIMARY SCHOOL ORIUZOR</p>
+            <p><strong>LOCAL GOVERNMENT:</strong> EZZA NORTH</p>
+            <p><strong>STATE:</strong> EBONYI</p>
+            <p><strong>DONATION TYPE:</strong> TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited COMMUNITY PRIMARY SCHOOL ORIUZOR and donated
+              study materials to the students, including pencils, textbooks, and notebooks.
+              This effort supports underprivileged students in public schools across Ebonyi
+              State. Based on our survey, many students face challenges accessing adequate
+              study materials.
+            </p>
+          </Col>
+
+          <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: '100%',
+                height: '500px',
+                borderRadius: '0.5rem',
+                boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+                objectFit: 'cover',
+              }}
+            >
+              <source
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/amuro.mp4"
+                type="video/mp4"
+              />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p><strong>MONTH:</strong> JUNE</p>
+            <p><strong>YEAR:</strong> 2025</p>
+            <p><strong>SCHOOL NAME:</strong> COMPREHENSIVE JUNIOR SECONDARY SCHOOL ORIUZOR</p>
+            <p><strong>LOCAL GOVERNMENT:</strong> EZZA NORTH</p>
+            <p><strong>STATE:</strong> EBONYI</p>
+            <p><strong>DONATION TYPE:</strong> TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited COMPREHENSIVE JUNIOR SECONDARY SCHOOL ORIUZOR and donated
+              study materials to the students, including pencils, textbooks, and notebooks.
+              This effort supports underprivileged students in public schools across Ebonyi
+              State. Based on our survey, many students face challenges accessing adequate
+              study materials.
+            </p>
+          </Col>
           <Col sm={6}>
             <video
               controls

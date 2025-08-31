@@ -7,8 +7,6 @@ import ProgressBar from 'react-bootstrap/ProgressBar';
 import Card from '../components/slider'
 
 import anyimude from '../assets/images/anyimude.jpg';
-
-
 function About() {
   const html = 80;
   const responsive = 95;
