@@ -16,7 +16,61 @@ function September() {
           <div className="subtitle" style={{ color: "#0c71c3" }}>EAI Events For September</div>
         </div>
         <Row>
-          {/* CENTRAL SCHOOL IGBOJI IKWO */}
+        <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/abao2.mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p>MONTH: SEPTEMBER</p>
+            <p>YEAR: 2025</p>
+            <p>SCHOOL NAME: COMMUNITY SECONDARY SCHOOL ABAOMEGE ONICHA</p>
+            <p>LOCAL GOVERNMENT: ONICHA LGA
+            </p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS</p>
+            <p>The Emeka Anyimude Initiative visited Community secondary school Abaomege Onicha, where the organization donated study materials to the students. The materials ranged from pencils and textbooks to notebooks. This was done in an effort to support underprivileged students in public schools across Ebonyi State. Our donations align with findings from our survey, which revealed that many students face challenges due to a lack of study materials.</p>
+          </Col>
+
+
+
+
+          <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/abao.mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p>MONTH: SEPTEMBER</p>
+            <p>YEAR: 2025</p>
+            <p>SCHOOL NAME: CENTRAL PRIMARY SCHOOL ABAOMEGE ONICHA</p>
+            <p>LOCAL GOVERNMENT: ONICHA LGA
+            </p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS</p>
+            <p>The Emeka Anyimude Initiative visited Central primary school Abaomege Onicha, where the organization donated study materials to the students. The materials ranged from pencils and textbooks to notebooks. This was done in an effort to support underprivileged students in public schools across Ebonyi State. Our donations align with findings from our survey, which revealed that many students face challenges due to a lack of study materials.</p>
+          </Col>
+
           <Col sm={6}>
             <video
               controls
@@ -34,7 +88,7 @@ function September() {
           </Col>
           <Col sm={6}>
             <p>MONTH: SEPTEMBER</p>
-            <p>YEAR: 2023</p>
+            <p>YEAR: 2025</p>
             <p>SCHOOL NAME: CENTRAL SCHOOL IGBOJI IKWO</p>
             <p>LOCAL GOVERNMENT: IKWO</p>
             <p>STATE: EBONYI</p>
