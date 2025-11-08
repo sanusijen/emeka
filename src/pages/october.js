@@ -14,6 +14,36 @@ function October() {
         </div>
 
         <Row>
+
+        <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/ezzasouth.mp4"
+                type="video/mp4"
+              />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p>MONTH: OCTOBER</p>
+            <p>YEAR: 2025</p>
+            <p>SCHOOL NAME:COMMUNITY PRIMARY SCHOOL, EZZA SOUTH</p>
+            <p>LOCAL GOVERNMENT: EZZA SOUTH</p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited COMMUNITY PRIMARY SCHOOL,EZZA SOUTH. where the organization donated study materials to the students. The materials ranged from pencils, textbooks, to notebooks. All this was done in an effort to help the less privileged ones in public schools across Ebonyi State. Our donations are in line with our survey regarding student performance, where we realized that students face challenges with study materials.
+            </p>
+          </Col>
           {/* First Event */}
           <Col sm={6}>
             <video
