@@ -3,9 +3,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 function February() {
-  const html = 80;
-  const responsive = 95;
-  const photoshop = 60;
+
 
   return (
     <section id="about" className="block about-block">
