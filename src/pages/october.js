@@ -13,7 +13,6 @@ function October() {
         </div>
 
         <Row>
-
         <Col sm={6}>
             <video
               controls
