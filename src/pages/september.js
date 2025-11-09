@@ -1,12 +1,10 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import ProgressBar from 'react-bootstrap/ProgressBar';
+
 
 function September() {
-  const html = 80;
-  const responsive = 95;
-  const photoshop = 60;
+
 
   return (
     <section id="about" className="block about-block">
