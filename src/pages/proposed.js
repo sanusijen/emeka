@@ -2,16 +2,11 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-import ProgressBar from 'react-bootstrap/ProgressBar';
 import AppFooter from '../components/footer';
 import rehabroof from '../assets/images/rehabroof.jpg';
 import ugwu from '../assets/images/ugwu.jpg';
 
 function Proposed() {
-  const html = 80;
-  const responsive = 95;
-  const photoshop = 60;
-
   return (
     <div>
     <section id="about" className="block about-block">
