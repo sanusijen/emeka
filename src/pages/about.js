@@ -4,7 +4,6 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 
 
-import Card from '../components/slider'
 
 import anyimude from '../assets/images/anyimude.jpg';
 function About() {
