@@ -1,20 +1,8 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-<<<<<<< HEAD
-import Image from 'react-bootstrap/Image';
-
 
 function January() {
-  
-=======
-
-
-
-function January() {
-
->>>>>>> 5a56c85a2d187ba5ebaa1825a535262d1fd744d1
-
   return (
     <section id="about" className="block about-block">
       <Container fluid style={{ marginTop: "40px" }}>
