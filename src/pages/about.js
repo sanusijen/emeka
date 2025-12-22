@@ -2,12 +2,20 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5a56c85a2d187ba5ebaa1825a535262d1fd744d1
 
 
-import Card from '../components/slider'
 
 import anyimude from '../assets/images/anyimude.jpg';
 function About() {
+<<<<<<< HEAD
+=======
+ 
+
+>>>>>>> 5a56c85a2d187ba5ebaa1825a535262d1fd744d1
   return (
     <div>
     <section id="about" className="block about-block">

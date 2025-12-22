@@ -2,11 +2,16 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
+<<<<<<< HEAD
 
 import img1 from '../assets/images/img1.jpg';
 function Programs() {
   
 
+=======
+import img1 from '../assets/images/img1.jpg';
+function Programs() {
+>>>>>>> 5a56c85a2d187ba5ebaa1825a535262d1fd744d1
   return (
     <section id="about" className="block about-block">
       <Container fluid>

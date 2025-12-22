@@ -3,7 +3,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 function February() {
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 5a56c85a2d187ba5ebaa1825a535262d1fd744d1
 
   return (
     <section id="about" className="block about-block">
