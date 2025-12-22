@@ -2,16 +2,12 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-import ProgressBar from 'react-bootstrap/ProgressBar';
+
 
 import Card from '../components/slider'
 
 import anyimude from '../assets/images/anyimude.jpg';
 function About() {
-  const html = 80;
-  const responsive = 95;
-  const photoshop = 60;
-
   return (
     <div>
     <section id="about" className="block about-block">

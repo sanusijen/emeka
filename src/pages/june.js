@@ -61,7 +61,7 @@ function June() {
               }}
             >
               <source
-                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/amuro.mp4"
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/comp.mp4"
                 type="video/mp4"
               />
               Your browser does not support the video tag.

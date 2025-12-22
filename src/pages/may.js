@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import ProgressBar from 'react-bootstrap/ProgressBar';
+
 
 function May() {
   return (
@@ -92,7 +92,7 @@ function May() {
             <p><strong>STATE:</strong> Ebonyi</p>
             <p><strong>DONATION TYPE:</strong> Textbooks</p>
             <p>
-              The Emeka Anyimude Initiative visited Akaeza Community Iyioji JSS Akaeze and donated study materials including pencils, textbooks, and notebooks. This outreach is part of our mission to support disadvantaged students in public schools throughout Ebonyi State. Our survey indicated that a lack of study materials significantly hinders academic performance.
+              The Emeka Anyimude Initiative visited Akaeze Community Iyioji JSS Akaeze and donated study materials including pencils, textbooks, and notebooks. This outreach is part of our mission to support disadvantaged students in public schools throughout Ebonyi State. Our survey indicated that a lack of study materials significantly hinders academic performance.
             </p>
           </Col>
 
