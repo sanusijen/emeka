@@ -54,7 +54,7 @@ const servicesData = [
   {
     id: 2,
     icon: 'fas fa-user-graduate',
-    title: 'Boosting learning environment',
+    title: 'Boosting the learning environment',
     description: ' .'
   },
  
