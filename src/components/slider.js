@@ -109,7 +109,7 @@ const Courses = () => {
           <h1 style={{ fontWeight: "bold", fontSize: "24px", marginBottom: "10px" }}>
          
             <span style={{color:"#0c71c3"}}>
-            Empowering schools and student for better studies.
+            Empowering schools and Students for better studies.
             </span>
           </h1>
           <p style={{ color: "#6D737A", fontWeight: "bold", fontSize: "16px" }}>
