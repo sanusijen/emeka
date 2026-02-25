@@ -36,7 +36,7 @@ function AppBlog() {
       <Container fluid>
         <div className="title-holder">
           <h2>Our Recent News</h2>
-          <div className="subtitle">get latest news regarding our programs</div>
+          <div className="subtitle">get the latest news regarding our programs</div>
         </div>
         <Row>
           {
