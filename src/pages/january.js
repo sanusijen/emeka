@@ -11,6 +11,62 @@ function January() {
           <div className="subtitle" style={{ color: "#0c71c3" }}>EAI Events For January</div>
         </div>
         <Row>
+
+  
+   <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/cps.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p>MONTH: JANUARY</p>
+            <p>YEAR: 2026</p>
+            <p>SCHOOL NAME: COMPREHENSIVE PRIMARY SCHOOL,AMUNU</p>
+            <p>LOCAL GOVERNMENT:IKWO</p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS AND SPORT MATERIALS</p>
+            <p>
+              The Emeka Anyimude Initiative visited  comprehensive primary school Amunu, where the organization donated study materials and sports materials to the students. These materials included pencils, textbooks, and notebooks. This initiative was carried out to support underprivileged children in public schools across Ebonyi State. Our donations are based on findings from a survey that revealed students in the school face challenges accessing study materials.
+            </p>
+          </Col>
+
+   <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/mcs.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p>MONTH: JANUARY</p>
+            <p>YEAR: 2026</p>
+            <p>SCHOOL NAME: MODERN COMPREHENSIVE SECONDARY SCHOOL AGUBIA ,IKWO</p>
+            <p>LOCAL GOVERNMENT:IKWO</p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited Modern comprehensive secondary School Agubia, where the organization donated study materials to the students. These materials included pencils, textbooks, and notebooks. This initiative was carried out to support underprivileged children in public schools across Ebonyi State. Our donations are based on findings from a survey that revealed students in the school face challenges accessing study materials.
+            </p>
+          </Col>
+
           <Col sm={6}>
             <video
               controls
