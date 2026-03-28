@@ -27,7 +27,7 @@ function February() {
               }}
             >
               <source
-                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/ngulo.mp4"
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/cmpa.mp4"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
@@ -67,7 +67,7 @@ function February() {
               }}
             >
               <source
-                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/ngulo.mp4"
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/izh.mp4"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
