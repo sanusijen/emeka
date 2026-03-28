@@ -14,6 +14,86 @@ function February() {
             EAI Events for February
           </div>
         </div>
+ <Row>
+          <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: '100%',
+                height: '500px',
+                borderRadius: '0.5rem',
+                boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+                objectFit: 'cover',
+              }}
+            >
+              <source
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/ngulo.mp4"
+                type="video/mp4"
+              />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+
+          <Col sm={6}>
+            <p>MONTH: FEBRUARY</p>
+            <p>YEAR: 2026</p>
+            <p>SCHOOL NAME: NDIARBOR ISHIKE COMMUNITY PRIMARY SCHOOL</p>
+            <p>LOCAL GOVERNMENT: ABAKALIKI</p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited NDIARBOR ISHIKE COMMUNITY PRIMARY SCHOOL, where the
+              organization donated study materials to the students of the
+              school. The materials ranged from pencils, textbooks, to notebooks.
+              This was done in an effort to support less privileged students in
+              public schools across Ebonyi State. Our donations align with the
+              findings of our survey regarding student performance in the
+              school, which revealed that many students face challenges due to a
+              lack of study materials.
+            </p>
+          </Col>
+        </Row>
+        <Row>
+              <Row>
+          <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: '100%',
+                height: '500px',
+                borderRadius: '0.5rem',
+                boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+                objectFit: 'cover',
+              }}
+            >
+              <source
+                src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/ngulo.mp4"
+                type="video/mp4"
+              />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+
+          <Col sm={6}>
+            <p>MONTH: FEBRUARY</p>
+            <p>YEAR: 2026</p>
+            <p>SCHOOL NAME: IZZI HIGH SCHOOL</p>
+            <p>LOCAL GOVERNMENT: ABAKALIKI</p>
+            <p>STATE: EBONYI</p>
+            <p>DONATION TYPE: TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited IZZI HIGH SCHOOL, where the
+              organization donated study materials to the students of the
+              school. The materials ranged from pencils, textbooks, to notebooks.
+              This was done in an effort to support less privileged students in
+              public schools across Ebonyi State. Our donations align with the
+              findings of our survey regarding student performance in the
+              school, which revealed that many students face challenges due to a
+              lack of study materials.
+            </p>
+          </Col>
+        </Row>
+        <Row>
         <Row>
           <Col sm={6}>
             <video
