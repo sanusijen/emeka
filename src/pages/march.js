@@ -11,6 +11,34 @@ function March() {
           <div className="subtitle" style={{ color: "#0c71c3" }}>EAI Events For March</div>
         </div>
         <Row>
+
+   <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/upe.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p><strong>MONTH:</strong> MARCH</p>
+            <p><strong>YEAR:</strong> 2026</p>
+            <p><strong>SCHOOL NAME:</strong> COMMUNITY PRIMARY SCHOOL EBIAJI</p>
+            <p><strong>LOCAL GOVERNMENT:</strong>EZZA NORTH</p>
+            <p><strong>STATE:</strong> EBONYI</p>
+            <p><strong>DONATION TYPE:</strong> TEXTBOOKS</p>
+            <p>
+              The Emeka Anyimude Initiative visited COMMUNITY PRIMARY SCHOOL EBIAJI where the organization donated study materials to the students of the school. The materials ranged from pencils, textbooks, and notebooks. This was done in an effort to help the less privileged in public schools across Ebonyi State. Our donations followed a survey that revealed that students face challenges with study materials.
+            </p>
+          </Col>
+
           {/* FIRST SCHOOL */}
           <Col sm={6}>
             <video
