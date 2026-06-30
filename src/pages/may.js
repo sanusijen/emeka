@@ -12,6 +12,32 @@ function May() {
           <div className="subtitle" style={{ color: "#0c71c3" }}>EAI Events for May</div>
         </div>
         <Row>
+   <Col sm={6}>
+            <video
+              controls
+              style={{
+                width: "100%",
+                height: "500px",
+                borderRadius: "0.5rem",
+                boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+                objectFit: "cover",
+              }}
+            >
+              <source src="https://emekaanyimude.s3.eu-north-1.amazonaws.com/umghara.mp4" type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          </Col>
+          <Col sm={6}>
+            <p><strong>MONTH:</strong> May</p>
+            <p><strong>YEAR:</strong> 2026</p>
+            <p><strong>SCHOOL NAME:</strong> Community primary School Umughara</p>
+            <p><strong>LOCAL GOVERNMENT:</strong> Ezza North</p>
+            <p><strong>STATE:</strong> Ebonyi</p>
+            <p><strong>DONATION TYPE:</strong> Textbooks</p>
+            <p>
+              The Emeka Anyimude Initiative visited Community primary School Umughara, where the organization donated study materials to students. The materials ranged from pencils and textbooks to notebooks. This was done in an effort to support less privileged students in public schools across Ebonyi State. Based on our survey regarding the academic performance of the students, we found that many face challenges due to a lack of study materials.
+            </p>
+          </Col>
           {/* PRESSCO SECONDARY SCHOOL */}
           <Col sm={6}>
             <video
